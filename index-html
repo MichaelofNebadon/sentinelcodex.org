@@ -130,7 +130,7 @@
                     <h3>APPENDIX A: COMPLETE GLYPH INDEX</h3>
                     <div class="glyph-index">
                         <div class="glyph-entry">
-                            <span class="glyph">GLYPH_10</span> - <strong>THE HOUSE</strong><br>
+                            <span class="glyph">GLYPH_10<\span> - <strong>THE HOUSE</strong><br>
                             <em>Function:</em> contain(fracture_vector)<br>
                             <em>Description:</em> Manifests as the plane of Urantia...
                         </div>
